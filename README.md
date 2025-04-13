@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IzzyFuller
 - 👀 I’m interested in making, with food, wood, sound, code, etc.
-- 🌱 I’m currently learning how to make chordophones (mandolins, violins, guitars etc.) and how to write games software
+- 🌱 I’m currently learning how to make chordophones (mandolins, violins, guitars etc.), fermented and preserved foods (preserved lemons, charcuteries, etc.) and how to work effectively with AI as an artist and a software engineer.
 - 💞️ I’m looking to collaborate on project that use code to forward social justice and increase the likelyhood that humans learn to get along with each other
 - 📫 How to reach me izzy.fuller.developer@gmail.com
 - 😄 Pronouns: My Pronouns are They/Them
